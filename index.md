@@ -2,11 +2,11 @@
 
 ### Find me at:
 
-- Twitter: https://twitter.com/bermeitinger_b
-- ResearchGate: https://www.researchgate.net/profile/Bernhard_Bermeitinger
-- ORCID: https://orcid.org/0000-0002-2524-1850
-- GitHub: https://github.com/bermeitinger-b
-- GitLab: https://gitlab.com/bernhard.bermeitinger (most projects are private here)
+- Twitter: [Bermeitinger_B](https://twitter.com/bermeitinger_b)
+- [ResearchGate](https://www.researchgate.net/profile/Bernhard_Bermeitinger)
+- ORCID: [0000-0002-2524-1850](https://orcid.org/0000-0002-2524-1850)
+- GitHub: [bermeitinger-b](https://github.com/bermeitinger-b)
+- GitLab: [bernhard.bermeitinger](https://gitlab.com/bernhard.bermeitinger) (most projects are private here)
 
 
 ### Publications
