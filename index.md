@@ -3,13 +3,17 @@
 ### Find me at:
 
 - Twitter: [Bermeitinger_B](https://twitter.com/bermeitinger_b)
-- [ResearchGate](https://www.researchgate.net/profile/Bernhard_Bermeitinger)
+- ResearchGate: [Bernhard_Bermeitinger](https://www.researchgate.net/profile/Bernhard_Bermeitinger)
 - ORCID: [0000-0002-2524-1850](https://orcid.org/0000-0002-2524-1850)
 - GitHub: [bermeitinger-b](https://github.com/bermeitinger-b)
 - GitLab: [bernhard.bermeitinger](https://gitlab.com/bernhard.bermeitinger) (most projects are private here)
 
 
 ### Publications
+
+#### 2019
+Bermeitinger, B., Donig, S., Christoforaki, M., Handschuh, S., 2019. **Vom Bild zum Text und wieder zurück**. Presented at DHd2019, Frankfurt (Main), Germany. [abstract](https://www.researchgate.net/publication/332275547), slides (TBD), [full book of abstracts](https://zenodo.org/record/2596095)
+
 
 #### 2018
 
