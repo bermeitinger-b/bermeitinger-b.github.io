@@ -12,9 +12,9 @@
 
 ### 2019
 
-- **Singular Value Decomposition and Neural Networks**. Bernhard Bermeitinger, Tomas Hrycej, Siegfried Handschuh, 2019. To appear in _Artificial Neural Networks and Machine Learning – ICANN 2018_. Will be presented at _ICANN2019_, Munich, Germany. [preprint](https://arxiv.org/abs/1906.11755), paper (TBD), slides (TBD), full proceedings (TBD)
+- **Singular Value Decomposition and Neural Networks**. Bernhard Bermeitinger, Tomas Hrycej, Siegfried Handschuh, 2019. To appear in _Artificial Neural Networks and Machine Learning – ICANN 2019_. Will be presented at _ICANN2019_, Munich, Germany. [preprint](https://arxiv.org/abs/1906.11755), paper (TBD), slides (TBD), full proceedings (TBD)
 
-- **SemAntic: A Semantic Image Annotation Tool For The Humanities**. Simon Wagner, Simon Donig, Maria Christoforaki, Simon Donig, Siegfried Handschuh, 2019. Poster at _DH2019_, Utrecht, Netherlands. [poster](https://www.researchgate.net/publication/334317882_SemAntic_-_A_semantic_annotation_tool_for_the_Humanities/citations), [online](https://dev.clariah.nl/files/dh2019/boa/0341.html) [GitLab: University Passau](https://gitlab.com/nlp-passau/semantic-image-annotation-tool), [GitLab: University St.Gallen](https://gitlab.com/ds-unisg/semantic-image-annotation-tool)
+- **SemAntic: A Semantic Image Annotation Tool For The Humanities**. Simon Wagner, Simon Donig, Maria Christoforaki, Simon Donig, Siegfried Handschuh, 2019. Poster at _DH2019_, Utrecht, Netherlands. [poster](https://www.researchgate.net/publication/334317882_SemAntic_-_A_semantic_annotation_tool_for_the_Humanities/citations), [online](https://dev.clariah.nl/files/dh2019/boa/0341.html), [GitLab: University Passau](https://gitlab.com/nlp-passau/semantic-image-annotation-tool), [GitLab: University St.Gallen](https://gitlab.com/ds-unisg/semantic-image-annotation-tool)
 
 
 - **Deep Watching: Towards New Methods of Analyzing Visual Media in Cultural Studies**. Bernhard Bermeitinger, Sebastian Gassner, Siegfried Handschuh, Gernot Howanitz, Erik Radisch, Malte Rehbein, 2019. Presented at _DH2019_, Utrecht, Netherlands. [paper](), [paper online](https://dev.clariah.nl/files/dh2019/boa/0335.html), slides (TBD), full book of abstract (TBD), [online book of abstract](https://dh2019.adho.org/programme/book-of-abstracts/)
