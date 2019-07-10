@@ -1,6 +1,6 @@
-## Bernhard Bermeitinger, M.Sc.
+# Bernhard Bermeitinger, M.Sc.
 
-### Find me at:
+## Find me at:
 
 - Twitter: [Bermeitinger_B](https://twitter.com/bermeitinger_b)
 - ResearchGate: [Bernhard_Bermeitinger](https://www.researchgate.net/profile/Bernhard_Bermeitinger)
@@ -8,9 +8,10 @@
 - GitHub: [bermeitinger-b](https://github.com/bermeitinger-b)
 - GitLab: [bernhard.bermeitinger](https://gitlab.com/bernhard.bermeitinger) (most projects are private there)
 
-### Publications
+## Publications
 
-#### 2019
+### 2019
+
 - **Singular Value Decomposition and Neural Networks**. Bernhard Bermeitinger, Tomas Hrycej, Siegfried Handschuh, 2019. To appear in _Artificial Neural Networks and Machine Learning – ICANN 2018_. Will be presented at _ICANN2019_, Munich, Germany. [preprint](https://arxiv.org/abs/1906.11755), paper (TBD), slides (TBD), full proceedings (TBD)
 
 - **SemAntic: A Semantic Image Annotation Tool For The Humanities**. Simon Wagner, Simon Donig, Maria Christoforaki, Simon Donig, Siegfried Handschuh, 2019. Poster at _DH2019_, Utrecht, Netherlands. [poster](https://www.researchgate.net/publication/334317882_SemAntic_-_A_semantic_annotation_tool_for_the_Humanities/citations), [online](https://dev.clariah.nl/files/dh2019/boa/0341.html) [GitLab: University Passau](https://gitlab.com/nlp-passau/semantic-image-annotation-tool), [GitLab: University St.Gallen](https://gitlab.com/ds-unisg/semantic-image-annotation-tool)
@@ -22,14 +23,14 @@
 
 - **Das digitale Abbild als Interface zum Objekt**. Simon Donig, Maria Christoforaki, Bernhard Bermeitinger, Siegfried Handschuh, 2019. Presented at _XXXV. Deutscher Kunsthistorikertag 2019_, Göttingen, Germany. [slides](https://www.researchgate.net/publication/332344200)
 
-#### 2018
+### 2018
 
 - **Bildanalyse durch Distant Viewing – Zur Identifizierung von klassizistischem Mobilar in Interieurdarstellungen**. Bernhard Bermeitinger, Simon Donig, Maria Christoforaki, Siegfried Handschuh, 2018. Presented at _DHd2018_, Cologne, Germany. [abstract](https://www.researchgate.net/publication/322525886), [slides](https://doi.org/10.13140/RG.2.2.12597.17121)
 
 - **Contextualising Bandera. Eine Distant Watching-Methode**. Bernhard Bermeitinger, Howanitz, G., Radisch, E., 2018. Presented at _DHd2018_, Cologne, Germany. [abstract](https://www.researchgate.net/publication/323507402), [slides](https://doi.org/10.13140/RG.2.2.22663.50084)
 
 
-#### 2017
+### 2017
 
 - **Towards a Classification of Neoclassical Objects in Interior Scenes**. Simon Donig, Maria Christoforaki, Bernhard Bermeitinger, Siegfried Handschuh, October 2017. Presented at the _Bilddaten in den Digitalen Geistes- und Kulturwissenschaften – Interoperabilität und Retrieval_, Darmstadt. [slides](https://www.researchgate.net/publication/320346839)
 
@@ -40,7 +41,7 @@
 - **Visual artefacts through the Black Box: Analysing Deep Learning classifcation of Neoclassical furniture images**. Simon Donig, Maria Christoforaki, Bernhard Bermeitinger, Siegfried Handschuh, July 2017. Presented at _(Art-)History goes Digital_, München, Germany. [slides](https://www.researchgate.net/publication/319204814)
 
 
-#### 2016
+### 2016
 
 - **Object Classification in Images of Neoclassical Furniture Using Deep Learning**. Bernhard Bermeitinger, André Freitas, Simon Donig, Siegfried Handschuh, November 2016. Computational History and Data-Driven Humanities, IFIP Advances in Information and Communication Technology. Presented at _International Workshop on Computational History and Data-Driven Humanities_, Springer, Cham, pp. 109–112. [paper](https://doi.org/10.1007/978-3-319-46224-0_10)
 
