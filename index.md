@@ -8,6 +8,8 @@
 - <i class="fab fa-gitlab"></i> GitLab: [bernhard.bermeitinger](https://gitlab.com/bernhard.bermeitinger) (most projects are private there)
 - <i class="fab fa-google"></i> [Google Scholar](https://scholar.google.ch/citations?user=IvN2BsQyL-oC)
 - <i class="fab fa-linked-in"></i> [LinkedIn](https://www.linkedin.com/in/bernhard-bermeitinger-a6aa2a117) (barely used)
+- <i class="fab fa-xing"></i> [Xing](https://www.xing.com/profile/Bernhard_Bermeitinger) (barely used)
+
 
 ## <i class="far fa-newspaper"></i> Publications
 
