@@ -6,7 +6,8 @@
 - ORCID: [0000-0002-2524-1850](https://orcid.org/0000-0002-2524-1850)
 - <i class="fab fa-github"></i> GitHub: [bermeitinger-b](https://github.com/bermeitinger-b)
 - <i class="fab fa-gitlab"></i> GitLab: [bernhard.bermeitinger](https://gitlab.com/bernhard.bermeitinger) (most projects are private there)
-- <i class="fab fa-google"></i> Google Scholar: [Bernhard Bermeitinger](https://scholar.google.ch/citations?user=IvN2BsQyL-oC)
+- <i class="fab fa-google"></i> [Google Scholar](https://scholar.google.ch/citations?user=IvN2BsQyL-oC)
+- <i class="fab fa-linked-in"></i> [LinkedIn](https://www.linkedin.com/in/bernhard-bermeitinger-a6aa2a117) (barely used)
 
 ## <i class="far fa-newspaper"></i> Publications
 
