@@ -1,1 +1,18 @@
+# Basic settings
 theme: jekyll-theme-tactile
+
+# Page settings
+title: Bernhard Bermeitinger
+SEOTitle: Bernhard Bermeitinger
+email: bernhard.bermeitinger@unisg.ch
+url: "https://bermeitinger-b.github.io"
+baseurl: ""
+github_repo: "https://github.com/bermeitinger-b/bermeitinger-b.github.io"
+
+# SNS
+RSS: false
+github_username: bermeitinger-b
+twitter_username: bermeitinger_b
+
+# Build settings
+permalink: pretty
