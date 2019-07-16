@@ -3,8 +3,11 @@ theme: jekyll-theme-tactile
 
 # Page settings
 title: Bernhard Bermeitinger
-SEOTitle: Bernhard Bermeitinger
 email: bernhard.bermeitinger@unisg.ch
+description: >-
+ Currently employed at the Institute for Computer Science in St.Gallen, Switzerland.
+ Also a PhD student at the University Passau, Germany.
+
 url: "https://bermeitinger-b.github.io"
 baseurl: ""
 github_repo: "https://github.com/bermeitinger-b/bermeitinger-b.github.io"
@@ -16,3 +19,4 @@ twitter_username: bermeitinger_b
 
 # Build settings
 permalink: pretty
+markdown: kramdown
