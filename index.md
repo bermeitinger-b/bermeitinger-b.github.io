@@ -3,7 +3,7 @@
 ## <i class="far fa-address-card"></i> Find me at:
 - <i class="fab fa-twitter"></i> Twitter: [Bermeitinger_B](https://twitter.com/bermeitinger_b)
 - <i class="fab fa-researchgate"></i> ResearchGate: [Bernhard_Bermeitinger](https://www.researchgate.net/profile/Bernhard_Bermeitinger)
-- ORCID: [0000-0002-2524-1850](https://orcid.org/0000-0002-2524-1850)
+- <i class="fas fa-dot-circle"></i> ORCID: [0000-0002-2524-1850](https://orcid.org/0000-0002-2524-1850)
 - <i class="fab fa-github"></i> GitHub: [bermeitinger-b](https://github.com/bermeitinger-b)
 - <i class="fab fa-gitlab"></i> GitLab: [bernhard.bermeitinger](https://gitlab.com/bernhard.bermeitinger) (most projects are private there)
 - <i class="fab fa-google"></i> [Google Scholar](https://scholar.google.ch/citations?user=IvN2BsQyL-oC)
