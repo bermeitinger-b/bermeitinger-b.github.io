@@ -15,26 +15,33 @@
 
 ### 2019
 
+- **Representational Capacity of Deep Neural Networks:
+A Computing Study** \\
+Bernhard Bermeitinger, Tomas Hrycej, Siegfried Handschuh \\
+To appear in _11th International Conference on Knowledge Discovery and Information Retrieval – KDIR 2019_ \\
+Presentation at _KDIR2019_, Vienna, Austria. \\
+preprint (TBD) (PDF (TBD)) | paper (TBD) | slides (TBD) | full proceedings (TBD)
+
 - **Singular Value Decomposition and Neural Networks** \\
 Bernhard Bermeitinger, Tomas Hrycej, Siegfried Handschuh \\
 To appear in _Artificial Neural Networks and Machine Learning – ICANN 2019_ \\
 Poster at _ICANN2019_, Munich, Germany. \\
-[preprint](https://arxiv.org/abs/1906.11755) ([PDF](https://arxiv.org/pdf/1906.11755)), paper (TBD), poster (TBD), full proceedings (TBD)
+[preprint](https://arxiv.org/abs/1906.11755) ([PDF](https://arxiv.org/pdf/1906.11755)) | paper (TBD) | poster (TBD) | full proceedings (TBD)
 
 - **SemAntic: A Semantic Image Annotation Tool For The Humanities** \\
 Simon Wagner, Simon Donig, Maria Christoforaki, Simon Donig, Siegfried Handschuh \\
 Poster at _DH2019_, Utrecht, Netherlands. \\
-[poster](https://www.researchgate.net/publication/334317882_SemAntic_-_A_semantic_annotation_tool_for_the_Humanities/citations), [online](https://dev.clariah.nl/files/dh2019/boa/0341.html), [GitLab: University Passau](https://gitlab.com/nlp-passau/semantic-image-annotation-tool), [GitLab: University St.Gallen](https://gitlab.com/ds-unisg/semantic-image-annotation-tool), [book of abstracts](https://dh2019.adho.org/programme/book-of-abstracts/)
+[paper](https://dev.clariah.nl/files/dh2019/boa/0341.html) | [poster](https://www.researchgate.net/publication/334317882_SemAntic_-_A_semantic_annotation_tool_for_the_Humanities/citations) | [GitLab: University Passau](https://gitlab.com/nlp-passau/semantic-image-annotation-tool) | [GitLab: University St.Gallen](https://gitlab.com/ds-unisg/semantic-image-annotation-tool) | [book of abstracts](https://dh2019.adho.org/programme/book-of-abstracts/)
 
 - **Deep Watching: Towards New Methods of Analyzing Visual Media in Cultural Studies** \\
 Bernhard Bermeitinger, Sebastian Gassner, Siegfried Handschuh, Gernot Howanitz, Erik Radisch, Malte Rehbein \\
 Presented at _DH2019_, Utrecht, Netherlands \\
-[paper](https://dev.clariah.nl/files/dh2019/boa/0335.html), [slides](https://zenodo.org/record/3326470), [book of abstracts](https://dh2019.adho.org/programme/book-of-abstracts/)
+[paper](https://dev.clariah.nl/files/dh2019/boa/0335.html) | [slides](https://zenodo.org/record/3326470) | [book of abstracts](https://dh2019.adho.org/programme/book-of-abstracts/)
 
 - **Vom Bild zum Text und wieder zurück** \\
 Bernhard Bermeitinger, Simon Donig, Maria Christoforaki, Siegfried Handschuh \\
 Presented at _DHd2019_, Frankfurt (Main), Germany \\
-[paper](https://www.researchgate.net/publication/332275547), [slides](https://www.researchgate.net/publication/332441711_Vom_Bild_zum_Text_und_wieder_zuruck), [book of abstracts](https://zenodo.org/record/2596095)
+[paper](https://www.researchgate.net/publication/332275547) | [slides](https://www.researchgate.net/publication/332441711_Vom_Bild_zum_Text_und_wieder_zuruck) | [book of abstracts](https://zenodo.org/record/2596095)
 
 - **Das digitale Abbild als Interface zum Objekt** \\
 Simon Donig, Maria Christoforaki, Bernhard Bermeitinger, Siegfried Handschuh \\
@@ -46,12 +53,12 @@ Presented at _XXXV. Deutscher Kunsthistorikertag 2019_, Göttingen, Germany \\
 - **Bildanalyse durch Distant Viewing – Zur Identifizierung von klassizistischem Mobilar in Interieurdarstellungen** \\
 Bernhard Bermeitinger, Simon Donig, Maria Christoforaki, Siegfried Handschuh \\
 Presented at _DHd2018_, Cologne, Germany \\
-[abstract](https://www.researchgate.net/publication/322525886), [slides](https://doi.org/10.13140/RG.2.2.12597.17121)
+[abstract](https://www.researchgate.net/publication/322525886) | [slides](https://doi.org/10.13140/RG.2.2.12597.17121)
 
 - **Contextualising Bandera. Eine Distant Watching-Methode** \\
 Bernhard Bermeitinger, Gernot Howanitz, Erik Radisch \\
 Presented at _DHd2018_, Cologne, Germany \\
-[abstract](https://www.researchgate.net/publication/323507402), [slides](https://doi.org/10.13140/RG.2.2.22663.50084)
+[abstract](https://www.researchgate.net/publication/323507402) | [slides](https://doi.org/10.13140/RG.2.2.22663.50084)
 
 
 ### 2017
@@ -64,7 +71,7 @@ Presented at _Bilddaten in den Digitalen Geistes- und Kulturwissenschaften – I
 - **Object Classification in Images of Neoclassical Artifacts using Deep Learning** \\
 Simon Donig, Maria Christoforaki, Bernhard Bermeitinger, André Freitas, Siegfried Handschuh \\
 Presented at _Digital Humanities 2017 (DH2017)_, Montréal, Canada \\
-[abstract](https://www.researchgate.net/publication/320413198), [slides](https://www.researchgate.net/publication/319174970)
+[abstract](https://www.researchgate.net/publication/320413198) | [slides](https://www.researchgate.net/publication/319174970)
 
 - **Neoclassica – An Open Framework for Research in Neoclassicism** \\
 Simon Donig, Maria Christoforaki, Bernhard Bermeitinger, Siegfried Handschuh \\
