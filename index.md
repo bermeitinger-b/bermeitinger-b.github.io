@@ -1,17 +1,19 @@
 # Bernhard Bermeitinger
+----
 
-## <i class="far fa-address-card"></i> Find me at:
-- <i class="fab fa-twitter"></i> Twitter: [Bermeitinger_B](https://twitter.com/bermeitinger_b)
-- <i class="fab fa-researchgate"></i> ResearchGate: [Bernhard_Bermeitinger](https://www.researchgate.net/profile/Bernhard_Bermeitinger)
-- <i class="fas fa-dot-circle"></i> ORCID: [0000-0002-2524-1850](https://orcid.org/0000-0002-2524-1850)
-- <i class="fab fa-github"></i> GitHub: [bermeitinger-b](https://github.com/bermeitinger-b)
-- <i class="fab fa-gitlab"></i> GitLab: [bernhard.bermeitinger](https://gitlab.com/bernhard.bermeitinger) (most projects are private there)
-- <i class="fab fa-google"></i> [Google Scholar](https://scholar.google.ch/citations?user=IvN2BsQyL-oC)
-- <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/bernhard-bermeitinger-a6aa2a117) (barely used)
-- <i class="fab fa-xing"></i> [Xing](https://www.xing.com/profile/Bernhard_Bermeitinger) (barely used)
+## <i class="far fa-address-card fa-fw"></i> Find me at
+- <i class="fab fa-fw fa-twitter"></i> Twitter: [Bermeitinger_B](https://twitter.com/bermeitinger_b)
+- <i class="fab fa-fw fa-researchgate"></i> ResearchGate: [Bernhard_Bermeitinger](https://www.researchgate.net/profile/Bernhard_Bermeitinger)
+- <i class="fas fa-fw fa-dot-circle"></i> ORCID: [0000-0002-2524-1850](https://orcid.org/0000-0002-2524-1850)
+- <i class="fab fa-fw fa-github"></i> GitHub: [bermeitinger-b](https://github.com/bermeitinger-b)
+- <i class="fab fa-fw fa-gitlab"></i> GitLab: [bernhard.bermeitinger](https://gitlab.com/bernhard.bermeitinger) (most projects are private there)
+- <i class="fab fa-fw fa-google"></i> [Google Scholar](https://scholar.google.ch/citations?user=IvN2BsQyL-oC)
+- <i class="fab fa-fw fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/bernhard-bermeitinger-a6aa2a117) (barely used)
+- <i class="fab fa-fw fa-xing"></i> [Xing](https://www.xing.com/profile/Bernhard_Bermeitinger) (barely used)
 
+----
 
-## <i class="far fa-newspaper"></i> Publications
+## <i class="far fa-newspaper fa-fw"></i> Publications
 
 ### 2019
 
@@ -20,7 +22,7 @@ A Computing Study** \\
 Bernhard Bermeitinger, Tomas Hrycej, Siegfried Handschuh \\
 To appear in _11th International Conference on Knowledge Discovery and Information Retrieval – KDIR 2019_ \\
 Presentation at _KDIR2019_, Vienna, Austria. \\
-preprint (TBD) (PDF (TBD)) | paper (TBD) | slides (TBD) | full proceedings (TBD)
+[preprint](https://arxiv.org/abs/1907.08475) ([PDF](https://arxiv.org/pdf/1907.08475)) | paper (TBD) | slides (TBD) | full proceedings (TBD)
 
 - **Singular Value Decomposition and Neural Networks** \\
 Bernhard Bermeitinger, Tomas Hrycej, Siegfried Handschuh \\
@@ -96,6 +98,15 @@ Christina Niklaus, Bernhard Bermeitinger, Siegfried Handschuh, André Freitas \\
 Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: System Demonstrations, Osaka, Japan \\
 [paper](https://www.researchgate.net/publication/315670222)
 
+----
+
+## Impress
+Bernhard Bermeitinger\\
+Bruggwaldstrasse 103\\
+9300 Wittenbach, SG\\
+Schweiz
+
+research.bermeitinger@gmail.com
 
 
 <script src="https://kit.fontawesome.com/d5fd013226.js"></script>
