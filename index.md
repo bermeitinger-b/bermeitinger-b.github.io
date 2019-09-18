@@ -26,6 +26,7 @@ _11th International Conference on Knowledge Discovery and Information Retrieval 
 - **Singular Value Decomposition and Neural Networks** \\
 Bernhard Bermeitinger, Tomas Hrycej, Siegfried Handschuh \\
 _Artificial Neural Networks and Machine Learning – ICANN 2019: Deep Learning_, Munich, Germany. \\
+Presented as Poster \\
 [preprint](https://arxiv.org/abs/1906.11755) ([PDF](https://arxiv.org/pdf/1906.11755)) | [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30484-3_13) | [poster](https://www.researchgate.net/publication/335883193_Singular_Value_Decomposition_and_Neural_Networks_Poster) | [full proceedings](https://link.springer.com/book/10.1007/978-3-030-30484-3)
 
 - **SemAntic: A Semantic Image Annotation Tool For The Humanities** \\
@@ -65,7 +66,7 @@ _DHd2018_, Cologne, Germany \\
 
 - **Towards a Classification of Neoclassical Objects in Interior Scenes** \\
 Simon Donig, Maria Christoforaki, Bernhard Bermeitinger, Siegfried Handschuh \\
-_Bilddaten in den Digitalen Geistes- und Kulturwissenschaften – Interoperabilität und Retrieval_, Darmstadt \\
+_Bilddaten in den Digitalen Geistes- und Kulturwissenschaften – Interoperabilität und Retrieval_, Darmstadt, Germany \\
 [slides](https://www.researchgate.net/publication/320346839)
 
 - **Object Classification in Images of Neoclassical Artifacts using Deep Learning** \\
@@ -76,10 +77,11 @@ _Digital Humanities 2017 (DH2017)_, Montréal, Canada \\
 - **Neoclassica – An Open Framework for Research in Neoclassicism** \\
 Simon Donig, Maria Christoforaki, Bernhard Bermeitinger, Siegfried Handschuh \\
 _Digital Humanities 2017 (DH2017)_, Montréal, Canada \\
+Presented as Poster \\
 [abstract](https://www.researchgate.net/publication/319307122)
 
-
-- **Visual Artefacts through the Black Box: Analysing Deep Learning Classifcation of Neoclassical Furniture Images** \\ Simon Donig, Maria Christoforaki, Bernhard Bermeitinger, Siegfried Handschuh \\
+- **Visual Artefacts through the Black Box: Analysing Deep Learning Classifcation of Neoclassical Furniture Images** \\
+Simon Donig, Maria Christoforaki, Bernhard Bermeitinger, Siegfried Handschuh \\
 _(Art-)History goes Digital_, München, Germany \\
 [slides](https://www.researchgate.net/publication/319204814)
 
@@ -88,9 +90,8 @@ _(Art-)History goes Digital_, München, Germany \\
 
 - **Object Classification in Images of Neoclassical Furniture Using Deep Learning** \\
 Bernhard Bermeitinger, André Freitas, Simon Donig, Siegfried Handschuh \\
-Computational History and Data-Driven Humanities, IFIP Advances in Information and Communication Technology \\
-International Workshop on Computational History and Data-Driven Humanities, Springer, Cham, pp. 109–112 \\
-[paper](https://doi.org/10.1007/978-3-319-46224-0_10)
+_Computational History and Data-Driven Humanities (CHDDH 2016)_, Dublin, Ireland \\
+[paper](https://link.springer.com/chapter/10.1007%2F978-3-319-46224-0_10) | [book](https://link.springer.com/book/10.1007/978-3-319-46224-0)
 
 - **A Sentence Simplification System for Improving Relation Extraction** \\
 Christina Niklaus, Bernhard Bermeitinger, Siegfried Handschuh, André Freitas \\
