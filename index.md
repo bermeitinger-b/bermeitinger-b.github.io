@@ -10,6 +10,7 @@
 - <i class="fab fa-fw fa-google"></i> [Google Scholar](https://scholar.google.ch/citations?user=IvN2BsQyL-oC)
 - <i class="fab fa-fw fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/bernhard-bermeitinger-a6aa2a117) (barely used)
 - <i class="fab fa-fw fa-xing"></i> [Xing](https://www.xing.com/profile/Bernhard_Bermeitinger) (barely used)
+- <i class="fas fa-fw fa-university"></i> [Alexandria](https://www.alexandria.unisg.ch/persons/7816)
 
 ----
 
@@ -21,7 +22,7 @@
 A Computing Study** \\
 Bernhard Bermeitinger, Tomas Hrycej, Siegfried Handschuh \\
 _11th International Conference on Knowledge Discovery and Information Retrieval – KDIR 2019_ \\
-[preprint](https://arxiv.org/abs/1907.08475) ([PDF](https://arxiv.org/pdf/1907.08475)) | paper (TBD) | slides (TBD) | full proceedings (TBD)
+[preprint](https://arxiv.org/abs/1907.08475) ([PDF](https://arxiv.org/pdf/1907.08475)) | [paper](https://www.scitepress.org/PublicationsDetail.aspx?ID=OnuZkDU3cF8%3d&t=1) | [slides](https://www.researchgate.net/publication/336239891_Representational_Capacity_of_Deep_Neural_Networks_A_Computing_Study_Slides) | [full proceedings](https://www.scitepress.org/ProceedingsDetails.aspx?ID=T4KTibRgTuo=&t=1)
 
 - **Singular Value Decomposition and Neural Networks** \\
 Bernhard Bermeitinger, Tomas Hrycej, Siegfried Handschuh \\
