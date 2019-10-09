@@ -18,10 +18,9 @@
 
 ### 2019
 
-- **Representational Capacity of Deep Neural Networks:
-A Computing Study** \\
+- **Representational Capacity of Deep Neural Networks: A Computing Study** \\
 Bernhard Bermeitinger, Tomas Hrycej, Siegfried Handschuh \\
-_11th International Conference on Knowledge Discovery and Information Retrieval – KDIR 2019_ \\
+_11th International Conference on Knowledge Discovery and Information Retrieval – KDIR 2019_, Vienna, Austria. \\
 [preprint](https://arxiv.org/abs/1907.08475) ([PDF](https://arxiv.org/pdf/1907.08475)) | [paper](https://www.scitepress.org/PublicationsDetail.aspx?ID=OnuZkDU3cF8%3d&t=1) | [slides](https://www.researchgate.net/publication/336239891_Representational_Capacity_of_Deep_Neural_Networks_A_Computing_Study_Slides) | [full proceedings](https://www.scitepress.org/ProceedingsDetails.aspx?ID=T4KTibRgTuo=&t=1)
 
 - **Singular Value Decomposition and Neural Networks** \\
@@ -98,6 +97,47 @@ _Computational History and Data-Driven Humanities (CHDDH 2016)_, Dublin, Ireland
 Christina Niklaus, Bernhard Bermeitinger, Siegfried Handschuh, André Freitas \\
 _COLING 2016, the 26th International Conference on Computational Linguistics: System Demonstrations_, Osaka, Japan \\
 [paper](https://www.researchgate.net/publication/315670222)
+
+----
+
+## <i class="fas fa-chalkboard-teacher"></i> Presentations
+
+### 2019
+
+- **Representational Capacity of Deep Neural Networks: A Computing Study** \\
+Bernhard Bermeitinger, Tomas Hrycej, Siegfried Handschuh \\
+_12th Computational Social Science Workshop_, St.Gallen, Switzerland. \\
+Presentation at a workshop \\
+[slides]()
+
+----
+
+## <i class="fas fa-school"></i> Teaching
+
+- **Einführung in Text Mining mit Python** \\
+HS2019 \\
+University St.Gallen, St.Gallen, Switzerland \\
+Tutor, Lecturer
+
+- **Fundamentals of Computer Science for Business Studies** \\
+HS2019 \\
+University St.Gallen, St.Gallen, Switzerland \\
+Tutor
+
+- **Einführung in Text Mining mit Python** \\
+FS2019 \\
+University St.Gallen, St.Gallen, Switzerland \\
+Tutor, Lecturer
+
+- **Einführung in Text Mining mit Python** \\
+HS2018 \\
+University St.Gallen, St.Gallen, Switzerland \\
+Tutor, Lecturer
+
+- **Text Mining** \\
+SS2018 \\
+University Passau, Passau, Germany\\
+Tutor, Lecturer
 
 ----
 
