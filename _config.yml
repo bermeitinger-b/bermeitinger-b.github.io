@@ -20,3 +20,8 @@ twitter_username: bermeitinger_b
 # Build settings
 permalink: pretty
 markdown: kramdown
+
+collections:
+  - publications
+  - presentations
+  - teaching
