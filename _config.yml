@@ -1,9 +1,10 @@
-# Basic settings
-theme: jekyll-theme-tactile
+# Base settings
+theme: jekyll-theme-minimal
 
 # Page settings
-title: Bernhard Bermeitinger
-email: bernhard.bermeitinger@unisg.ch
+title: "Bernhard Bermeitinger"
+logo: "/assets/img/logo.png"
+email: "bernhard.bermeitinger@unisg.ch"
 description: >-
  Currently employed at the Institute for Computer Science in St.Gallen, Switzerland.
  Also a PhD student at the University Passau, Germany.
@@ -12,13 +13,7 @@ url: "https://bermeitinger-b.github.io"
 baseurl: ""
 github_repo: "https://github.com/bermeitinger-b/bermeitinger-b.github.io"
 
-# SNS
-RSS: false
-github_username: bermeitinger-b
-twitter_username: bermeitinger_b
-
 # Build settings
-permalink: pretty
 markdown: kramdown
 
 collections:
