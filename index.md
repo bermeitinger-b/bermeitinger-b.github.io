@@ -8,6 +8,11 @@
 
 ----
 
+## <a name="pcs"> <i class="fas fa-gavel"></i> PCs</a>
+{% include pcs.md %}
+
+----
+
 ## <a name="teaching"> <i class="fas fa-school"></i> Teaching</a>
 {% include teaching.md %}
 
