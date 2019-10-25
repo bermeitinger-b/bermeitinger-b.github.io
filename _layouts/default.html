@@ -14,6 +14,7 @@
   <body>
     <div class="wrapper">
       <header>
+      	<div class="rightHeader">
         <h1><a href="{{ "/" | absolute_url }}">Bernhard Bermeitinger</a></h1>
         
         {% if site.logo %}
@@ -21,28 +22,30 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <nav>
+        </div>
+        <div class="leftHeader">
           <ul class="fa-ul">
-            <li class=fa-li>
+            <li>
               <span class="fa-li"><i class="far fa-square"></i></span>
               <a href="#publications">Publications</a>
             </li>
-            <li class=fa-li>
+            <li>
               <span class="fa-li"><i class="far fa-square"></i></span>
               <a href="#presentations">Presentations</a>
             </li>
-            <li class=fa-li>
+            <li>
               <span class="fa-li"><i class="far fa-square"></i></span>
               <a href="#pcs">Committees</a>
             </li>
-            <li class=fa-li>
+            <li>
               <span class="fa-li"><i class="far fa-square"></i></span>
               <a href="#teaching">Teaching</a>
             </li>
           </ul>
-        </nav>
+        </div>
+        <p>
         {% include contact.md %}
-
+        </p>
       </header>
       <section>
 
