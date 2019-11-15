@@ -4,6 +4,6 @@ authors: "Bernhard Bermeitinger, Gernot Howanitz, Erik Radisch, Sebastian Gassne
 venue: "Exploring Audiovisual Composition — Images of Crisis"
 date: "15.11.2019"
 location: "Potsdam, Germany"
-notes: "Workshop presentation at Hasso-Plattner-Institut"
+notes: "Presentation at a workshop"
 ---
 [slides](https://www.researchgate.net/publication/337276254)
