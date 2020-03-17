@@ -6,6 +6,6 @@ location: "Paderborn, Germany"
 date: "March 2020"
 notes: "Paper presentation"
 ---
-[slides](https://www.researchgate.net/publication/339800486a),
-[book_of_abstracts](https://zenodo.org/record/3666690),
+[slides](https://www.researchgate.net/publication/339800486),
+[full book of abstracts](https://zenodo.org/record/3666690),
 [preprint (arXiv)](https://arxiv.org/abs/2001.02372) ([only english](https://github.com/bermeitinger-b/Multimodal-Semantic-Transfer-from-Text-to-Image/releases/tag/arxiv)) ([only_german](https://github.com/bermeitinger-b/DHd2020-Multimodaler-Bedeutungstransfer/releases/tag/arxiv))
