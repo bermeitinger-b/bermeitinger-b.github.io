@@ -3,7 +3,7 @@ theme: jekyll-theme-minimal
 
 # Page settings
 title: "Bernhard Bermeitinger"
-logo: "/assets/img/logo.png"
+logo: "/assets/img/logo.webp"
 email: "bernhard.bermeitinger@unisg.ch"
 description: >-
  Currently employed at the Institute for Computer Science in St.Gallen, Switzerland.
