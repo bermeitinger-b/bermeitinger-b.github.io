@@ -3,5 +3,6 @@
 - **{{ course.title }}** \\
 	_{{ course.location}}_. \\
 	{{ course.semester }} \\
-	{{ course.role }}
+	{{ course.role }} \\
+	{{ course.additional }}
 {% endfor %}
