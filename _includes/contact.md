@@ -8,4 +8,5 @@
 	<li><span class="fa-li"><i class="fab fa-fw fa-linkedin"></i></span> <a href="https://www.linkedin.com/in/bernhard-bermeitinger-a6aa2a117">LinkedIn</a></li>
 	<li><span class="fa-li"><i class="fab fa-fw fa-xing"></i></span> <a href="https://www.xing.com/profile/Bernhard_Bermeitinger">Xing</a></li>
 	<li><span class="fa-li"><i class="fas fa-fw fa-university"></i></span> <a href="https://www.alexandria.unisg.ch/persons/7816">Alexandria @ HSG</a></li>
+	<li><span class="fa-li"><i class="fab fa-fw fa-youtube"></i></span> <a href="https://www.youtube.com/channel/UCoPQC4Rx-tP71FL4gyMB1UQ">YouTube</a></li>
 </ul>
