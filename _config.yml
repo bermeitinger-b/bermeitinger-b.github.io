@@ -3,21 +3,8 @@ theme: jekyll-theme-minimal
 
 # Page settings
 title: "Bernhard Bermeitinger"
-logo: "/assets/img/logo.webp"
-email: "bernhard.bermeitinger@unisg.ch"
-description: >-
- Currently employed at the Institute for Computer Science in St.Gallen, Switzerland.
- Also a PhD student at the University Passau, Germany.
 
 url: "https://bermeitinger-b.github.io"
 baseurl: ""
 github_repo: "https://github.com/bermeitinger-b/bermeitinger-b.github.io"
 
-# Build settings
-markdown: kramdown
-
-collections:
-  - publications
-  - presentations
-  - teaching
-  - pcs
